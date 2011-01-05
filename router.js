@@ -52,7 +52,6 @@ var router = new Router();
 
 exports.route = function(req, res) {
   router._route(req, res);
-//  var request = require('url').parse(req.url, true);
 };
 
 
