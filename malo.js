@@ -1,5 +1,5 @@
 var fs = require('fs');
-var route = require('./router').route;
+var route = require('router').route;
 
 exports.handle = function(req, res) {
     try {
