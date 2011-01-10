@@ -1,0 +1,12 @@
+Synopsis:
+This is a rails-like framework built on top of Node.js for learning purposes only. 
+
+1. Install Node.js
+
+2. Start the server
+
+   > node server.js
+
+3. Navigate to page:
+
+   - http://localhost:8124/session/show?name=jack
